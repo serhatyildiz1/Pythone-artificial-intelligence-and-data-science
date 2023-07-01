@@ -1,6 +1,7 @@
 # Pythone-artificial-intelligence-and-data-science
 
 AÇIKLAMA
+
 İlgili derste sizlere anlatılan sınıflandırma algoritmalarına ait sınıflandırma performanslarının 
 değerlendirilmesine (accuracy, precision, recall, F1-score) ilişkin kodları yazdıktan sonra 
 sonuçları yorumlamıştık. Aynı zamanda bu modellerin değerlendirilmesine ilişkin confusion 
@@ -10,6 +11,7 @@ Kodları sizlerin yeniden yazması yerine, kod paylaşımını geçtiğimiz ders
 paylaşılmıştı. 
 
 SORU:
+
 Bu modellere ait karmaşıklık matrisini gösteriniz. Modellere ait karmaşıklık matrisini 
 gösterebilmeniz için modellerinizi fit etmeniz gerekmektedir. Fit ettikten sonra modelinizin 
 karmaşıklık matrisini gösterebilirsiniz. Bunun için SKLEARN kütüphanesinde ilgili kütüphaneyi 
